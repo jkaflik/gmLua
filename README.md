@@ -1,3 +1,5 @@
+# Project is deprecated
+
 Features
 --------
   * Call GM functions and scripts from Lua scripts (thanks to GMAPI)
